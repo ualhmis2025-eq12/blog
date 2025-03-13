@@ -1,0 +1,25 @@
+<aside class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <a href="{{ .Site.BaseURL }}"><h1>{{ .Site.Title }}</h1></a>
+      <p class="lead">
+      {{ with .Site.Params.description }} {{.}} {{ else }}Blog del equipo 12, usando <a href="http://hugo.spf13.com">hugo</a>.{{end}}
+      </p>
+    </div>
+
+    <nav>
+      <ul class="sidebar-nav">
+        <li><a href="{{ .Site.BaseURL }}">Inicio</a> </li>
+        <li><a href="{{ .Site.BaseURL }}/pages/jose">Jose</a> </li>
+        <li><a href="{{ .Site.BaseURL }}/pages/victor">Victor</a> </li>
+        <li><a href="{{ .Site.BaseURL }}/pages/contacto">Contacto</a> </li>
+        {{ range .Site.Menus.main -}}
+          <li><a href="{{.URL}}"> {{ .Name }} </a></li>
+        {{- end }}
+        
+      </ul>
+    </nav>
+
+    <p>{{ with .Site.Params.copyright }}{{.}}{{ else }}&copy; {{ now.Format "2006"}}. Todos los derechos reservados. {{end}}</p>
+  </div>
+</aside>

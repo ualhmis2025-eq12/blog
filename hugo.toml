@@ -1,4 +1,4 @@
 baseURL = 'https://ualhmis2025-eq12.github.io/blog/'
 languageCode = 'es-es'
 title = 'Blog Equipo 12'
-theme = "hyde"
+theme = "hydej"
