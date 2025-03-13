@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog Equipo 12</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Blog Equipo 12</description>
+    <generator>Hugo</generator>
+    <language>es-es</language>
+    <lastBuildDate>Wed, 12 Mar 2025 12:43:57 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Primer Post</title>
+      <link>http://localhost:1313/posts/2025/2025-03-12-primer-post/</link>
+      <pubDate>Wed, 12 Mar 2025 12:43:57 +0100</pubDate>
+      <guid>http://localhost:1313/posts/2025/2025-03-12-primer-post/</guid>
+      <description>&lt;h1 id=&#34;introducción-al-proyecto&#34;&gt;Introducción al Proyecto&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Fecha&lt;/strong&gt;: 12 de marzo de 2025&#xA;&lt;strong&gt;Autor&lt;/strong&gt;: jpg486&lt;/p&gt;&#xA;&lt;h2 id=&#34;descripción-del-proyecto&#34;&gt;Descripción del Proyecto&lt;/h2&gt;&#xA;&lt;p&gt;En este proyecto, nuestro equipo está desarrollando un blog estático utilizando Jekyll&#xA;y desplegándolo en GitHub Pages y Azure. El objetivo es aprender sobre el desarrollo&#xA;colaborativo, el uso de control de versiones con Git, y el despliegue de aplicaciones&#xA;web.&lt;/p&gt;&#xA;&lt;h2 id=&#34;objetivos&#34;&gt;Objetivos&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Crear un blog estático con Jekyll.&lt;/li&gt;&#xA;&lt;li&gt;Colaborar utilizando Git y GitHub.&lt;/li&gt;&#xA;&lt;li&gt;Desplegar el blog en GitHub Pages.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;estructura-del-blog&#34;&gt;Estructura del Blog&lt;/h2&gt;&#xA;&lt;p&gt;El blog tendrá las siguientes secciones:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

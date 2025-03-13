@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'es-es'
+title = 'Blog Equipo 12'
+theme = "hyde"
