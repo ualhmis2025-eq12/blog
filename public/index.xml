@@ -2,17 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog Equipo 12</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:1313/blog/</link>
     <description>Recent content on Blog Equipo 12</description>
     <generator>Hugo</generator>
     <language>es-es</language>
-    <lastBuildDate>Wed, 12 Mar 2025 12:43:57 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Mar 2025 12:48:23 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contacto</title>
+      <link>http://localhost:1313/blog/pages/contacto/</link>
+      <pubDate>Wed, 12 Mar 2025 12:48:23 +0100</pubDate>
+      <guid>http://localhost:1313/blog/pages/contacto/</guid>
+      <description>&lt;p&gt;Si tienes alguna pregunta o deseas ponerte en contacto conmigo, por favor completa el siguiente formulario:&lt;/p&gt;&#xA;&lt;form&#xA;  action=&#34;https://formspree.io/f/xoveqpkp&#34;&#xA;  method=&#34;POST&#34;&#xA;&gt;&#xA;  &lt;label&gt;&#xA;    Tu correo electrónico:&#xA;    &lt;input type=&#34;email&#34; name=&#34;email&#34; required&gt;&#xA;  &lt;/label&gt;&#xA;  &lt;br&gt;&#xA;  &lt;label&gt;&#xA;    Tu mensaje:&#xA;    &lt;textarea name=&#34;message&#34; required&gt;&lt;/textarea&gt;&#xA;  &lt;/label&gt;&#xA;  &lt;br&gt;&#xA;  &lt;button type=&#34;submit&#34;&gt;Enviar&lt;/button&gt;&#xA;&lt;/form&gt;</description>
+    </item>
+    <item>
+      <title>José</title>
+      <link>http://localhost:1313/blog/pages/jose/</link>
+      <pubDate>Wed, 12 Mar 2025 12:48:23 +0100</pubDate>
+      <guid>http://localhost:1313/blog/pages/jose/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://avatars.githubusercontent.com/u/160058689?v=4&#34; alt=&#34;Avatar&#34;&gt; &lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/jpg486-ual&#34;&gt;GitHub&lt;/a&gt; &lt;/p&gt;&#xA;&lt;h2 id=&#34;sobre-mí&#34;&gt;Sobre mí&lt;/h2&gt;&#xA;&lt;p&gt;Soy un apasionado de la tecnología y el desarrollo de software. Me encanta aprender nuevas tecnologías y mejorar mis habilidades de programación.&lt;/p&gt;&#xA;&lt;h2 id=&#34;gustos-y-aficiones&#34;&gt;Gustos y aficiones&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Programación:&lt;/strong&gt; Disfruto programar en Python, JavaScript y C++.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Lectura:&lt;/strong&gt; Me gusta leer libros de ciencia ficción y fantasía.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Música:&lt;/strong&gt; Soy fan de la música rock y electrónica.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;contacto&#34;&gt;Contacto&lt;/h2&gt;&#xA;&lt;p&gt;Puedes contactarme a través de mi &lt;a href=&#34;https://github.com/jpg486-ual&#34;&gt;GitHub&lt;/a&gt; o seguirme en mis redes sociales.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Victor</title>
+      <link>http://localhost:1313/blog/pages/victor/</link>
+      <pubDate>Wed, 12 Mar 2025 12:48:23 +0100</pubDate>
+      <guid>http://localhost:1313/blog/pages/victor/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://avatars.githubusercontent.com/u/&#34; alt=&#34;Avatar&#34;&gt; &lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/&#34;&gt;GitHub&lt;/a&gt; &lt;/p&gt;&#xA;&lt;h2 id=&#34;sobre-mí&#34;&gt;Sobre mí&lt;/h2&gt;&#xA;&lt;p&gt;Soy un apasionado de la tecnología y el desarrollo de software. Me encanta aprender nuevas tecnologías y mejorar mis habilidades de programación.&lt;/p&gt;&#xA;&lt;h2 id=&#34;gustos-y-aficiones&#34;&gt;Gustos y aficiones&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Programación:&lt;/strong&gt; Disfruto programar en Python, JavaScript y C++.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Lectura:&lt;/strong&gt; Me gusta leer libros de ciencia ficción y fantasía.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Música:&lt;/strong&gt; Soy fan de la música rock y electrónica.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;contacto&#34;&gt;Contacto&lt;/h2&gt;&#xA;&lt;p&gt;Puedes contactarme a través de mi &lt;a href=&#34;https://github.com/&#34;&gt;GitHub&lt;/a&gt; o seguirme en mis redes sociales. &lt;/p&gt;</description>
+    </item>
     <item>
       <title>Primer Post</title>
-      <link>http://localhost:1313/posts/2025/2025-03-12-primer-post/</link>
+      <link>http://localhost:1313/blog/posts/2025/2025-03-12-primer-post/</link>
       <pubDate>Wed, 12 Mar 2025 12:43:57 +0100</pubDate>
-      <guid>http://localhost:1313/posts/2025/2025-03-12-primer-post/</guid>
+      <guid>http://localhost:1313/blog/posts/2025/2025-03-12-primer-post/</guid>
       <description>&lt;h1 id=&#34;introducción-al-proyecto&#34;&gt;Introducción al Proyecto&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Fecha&lt;/strong&gt;: 12 de marzo de 2025&#xA;&lt;strong&gt;Autor&lt;/strong&gt;: jpg486&lt;/p&gt;&#xA;&lt;h2 id=&#34;descripción-del-proyecto&#34;&gt;Descripción del Proyecto&lt;/h2&gt;&#xA;&lt;p&gt;En este proyecto, nuestro equipo está desarrollando un blog estático utilizando Jekyll&#xA;y desplegándolo en GitHub Pages y Azure. El objetivo es aprender sobre el desarrollo&#xA;colaborativo, el uso de control de versiones con Git, y el despliegue de aplicaciones&#xA;web.&lt;/p&gt;&#xA;&lt;h2 id=&#34;objetivos&#34;&gt;Objetivos&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Crear un blog estático con Jekyll.&lt;/li&gt;&#xA;&lt;li&gt;Colaborar utilizando Git y GitHub.&lt;/li&gt;&#xA;&lt;li&gt;Desplegar el blog en GitHub Pages.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;estructura-del-blog&#34;&gt;Estructura del Blog&lt;/h2&gt;&#xA;&lt;p&gt;El blog tendrá las siguientes secciones:&lt;/p&gt;</description>
     </item>
   </channel>
