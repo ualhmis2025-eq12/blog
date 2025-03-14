@@ -10,7 +10,7 @@ title = 'Victor'
 
 ## Sobre mí
 
-Soy un apasionado de la tecnología y el desarrollo de software. Me encanta aprender nuevas tecnologías y mejorar mis habilidades de programación.
+Soy un chico encantado de dedicarse a la tecnología dispuesto a aprender y superar nuevos retos.
 
 ## Gustos y aficiones
 
