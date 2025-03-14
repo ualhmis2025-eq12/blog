@@ -4,9 +4,9 @@ draft = false
 title = 'Victor'
 +++
 
-![Avatar](https://avatars.githubusercontent.com/u/) <!-- Reemplaza con tu URL de avatar -->
+![Avatar](https://avatars.githubusercontent.com/u/114739306?s=400&v=4) <!-- Reemplaza con tu URL de avatar -->
 
-[GitHub](https://github.com/) <!-- Reemplaza con tu enlace de GitHub -->
+[GitHub](https://github.com/vvu981) <!-- Reemplaza con tu enlace de GitHub -->
 
 ## Sobre mí
 
@@ -14,10 +14,10 @@ Soy un apasionado de la tecnología y el desarrollo de software. Me encanta apre
 
 ## Gustos y aficiones
 
-- **Programación:** Disfruto programar en Python, JavaScript y C++.
-- **Lectura:** Me gusta leer libros de ciencia ficción y fantasía.
-- **Música:** Soy fan de la música rock y electrónica.
+- **Deporte:** Disfruto del deporte tanto realizandolo como viendolo.
+- **Programacion:** Me encanta ponerme nuevos retos para avanzar en este mundo tan interesante.
+- **Música:** Vivo la música.
 
 ## Contacto
 
-Puedes contactarme a través de mi [GitHub](https://github.com/) o seguirme en mis redes sociales. <!-- Reemplaza con tu enlace de GitHub -->
+Puedes contactarme a través de mi [GitHub](https://github.com/vvu981) o seguirme en mis redes sociales. <!-- Reemplaza con tu enlace de GitHub -->
