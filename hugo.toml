@@ -1,4 +1,4 @@
-baseURL = 'https://ualhmis2025-eq12.github.io/blog/'
+baseURL = 'https://blue-meadow-07f5dec10.6.azurestaticapps.net/'
 languageCode = 'es-es'
 title = 'Blog Equipo 12'
 theme = "hydej"
